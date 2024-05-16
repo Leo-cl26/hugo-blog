@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>emoji on Leocl&#39;s Blog</title>
-    <link>https://www.blog.leoclnas.com/tags/emoji/</link>
+    <link>https://leo-cl26.github.io/hugo-blog/tags/emoji/</link>
     <description>Recent content in emoji on Leocl&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.blog.leoclnas.com/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://leo-cl26.github.io/hugo-blog/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emoji Support</title>
-      <link>https://www.blog.leoclnas.com/2019/emoji-support/</link>
+      <link>https://leo-cl26.github.io/hugo-blog/2019/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.blog.leoclnas.com/2019/emoji-support/</guid>
+      <guid>https://leo-cl26.github.io/hugo-blog/2019/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
